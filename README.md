@@ -3,7 +3,7 @@ This is the clone of himalaya usa website.
 
 we were a team of 4 members and made this project in 5 days.
 
-## Run Project : https://himalayacwproject.netlify.app/
+## Run Project : https://himalyausa-clone.netlify.app/
 
 
 ## Team Members
